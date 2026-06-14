@@ -37,11 +37,4 @@ flutter pub get
 flutter run
 ```
 
-## Requirements to contribute
-
-- Basic knowledge of programming is mandatory
-- The ability to use Git and GitHub
-- Some knowledge of Flutter and how to use Android Studio or Visual Studio is preferrable for a head start.
-- UI/UX Design skills are appreciable but not mandatory
-
 
